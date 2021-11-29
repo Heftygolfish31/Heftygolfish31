@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Heftygolfish31
-- 👀 I’m interested in... coding. Duh.
-- 🌱 I’m currently learning HTML, Python and some C#. Hoping to learn some JavaScript soon XD
-- 💞️ I’m looking to collaborate on nothing at the moment. Open to suggestions though.
-- 📫 If you want to chat, come and contact me using
-            Free The Lizards#1145 on Discord
-            @heftygoldfish on Insta
+- 👀 I’m interested in... coding, I guess <3
+- 🌱 I’m currently learning Java and C++ but I am quite confident in Python, HTML, CSS and the odd bit of JS and Shell Scripting.
+- 💞️ Let me know if your intrested in working on something. I may have a few things up my sleve. You never know!
+- 📫 If you want to chat, come and contact me using:- 
+            Free The Lizards#1145 on Discord 
+            --or-- 
+            @heftygoldfish on Instagram
 
 <!---
 Heftygolfish31/Heftygolfish31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
