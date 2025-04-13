@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Heftygolfish31
-- 👀 I’m interested in... coding, I guess <3
-- 🌱 I’m currently learning Java and C++ but I am quite confident in Python, HTML, CSS and the odd bit of JS and Shell Scripting.
+- 👀 I’m interested in programming, cybersecurity, and doing good in the world.
+- 🌱 I’m in formal education learning Python and Java, but can build passable websites using HTML, CSS, some JS, and Electron.
